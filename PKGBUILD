@@ -3,7 +3,7 @@
 
 pkgname=qtweetlib
 pkgver=0.5
-pkgrel=3
+pkgrel=4
 pkgdesc="C++ Qt based Twitter library"
 arch=('i686' 'x86_64')
 url="https://github.com/minimoog/QTweetLib"
